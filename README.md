@@ -1,4 +1,3 @@
-# Simple-Weather-App
 # 🌦 Simple Weather App
 
 This is a simple Python app that fetches and displays the current weather for any city using the OpenWeatherMap API.
